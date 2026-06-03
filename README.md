@@ -14,11 +14,10 @@ and make it easy for customers to get in touch.
 - Responsive design (mobile-friendly)
 
 ## 🛠️ Built With
-- HTML / CSS / JavaScript   ← change if you used something else
+- HTML / CSS / JavaScript  
 
 ## 🚀 Getting Started
-1. Clone the repo: `git clone https://github.com/your-username/solar-services-website.git`
-2. Open `index.html` in your browser
+1. Open `index.html` in your browser
 
 ## 📬 Contact
-Built by [Your Name] — feel free to reach out for collaborations.
+Built by Vedant Dagwar  — feel free to reach out for collaborations.
